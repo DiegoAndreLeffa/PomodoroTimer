@@ -36,12 +36,7 @@ README.md
 
 ## 🚀 Como executar (localmente)
 
-1. Clonar repositório:
-
-```bash
-git <[clone](https://github.com/DiegoAndreLeffa/PomodoroTimer.git)>
-cd PomodoroTimer
-```
+1. Clonar repositório
 
 2. Restaurar dependências (opcional — o `dotnet run` faz isso automaticamente):
 
